@@ -1,0 +1,98 @@
+
+Suite di Firma Digitale ArubaSign
+Contratto di Licenza d'Uso e Garanzia del Software
+
+
+LICENZA D'USO
+Condizioni di distribuzione della Suite Client di Firma Digitale ArubaSign o di suoi componenti.
+
+IMPORTANTE
+I programmi in oggetto e la relativa documentazione, che costituiscono la Suite Client di Firma Digitale ArubaSign di seguito denominata SOFTWARE, sono di proprietà della società ArubaPEC SpA., con sede in via Sergio Ramelli 8, 52100 Arezzo, Italia, di seguito denominata ArubaPEC, e sono protetti dalle leggi sui diritti d'autore (copyright) e sui marchi. La proprietà del SOFTWARE non è trasferita all'UTENTE. 
+
+UTILIZZO
+Il SOFTWARE può essere utilizzato unicamente su un (1) singolo computer, di proprietà o in uso all'UTENTE. In nessun caso il SOFTWARE può essere usato su più di una macchina. Si può effettuare unicamente una copia a scopo di sicurezza, premesso che su questa copia venga indicato e riprodotto il copyright e che venga annotato che si tratta di una copia di sicurezza. Il programma può essere trasferito integralmente ad un terzo, premesso che questi preventivamente accetti i termini e le condizioni. Nel caso di versioni gratuite dimostrative del prodotto nessuna notifica deve essere effettuata a ArubaPEC. Nel caso di versioni a pagamento del prodotto il trasferimento deve essere notificato a ArubaPEC: in tal caso tutte le copie devono essere trasferite al nuovo utilizzatore oppure essere preventivamente distrutte, e il trasferimento fa terminare la licenza d'uso.
+
+UTILIZZO NON AUTORIZZATO
+Senza la previa autorizzazione da parte di ArubaPEC in nessun caso è permesso:
+1. Installare il SOFTWARE per l'utilizzo da parte di più persone contemporaneamente in assenza di una licenza individuale concessa da ArubaPEC. 
+2. Effettuare la copia, modifica, alterazione o trasferimento, elettronico o altrimenti, del SOFTWARE (ivi compresa la documentazione) qualora non espressamente previsto da questo contratto. 
+3. Tradurre, de-assemblare o decompilare il SOFTWARE. 
+4. Dare in uso il SOFTWARE in affitto o sub-licenziarlo. 
+
+GARANZIA LIMITATA
+ArubaPEC si fa garante del diritto di concedere il SOFTWARE in licenza all'utente. Offre inoltre una garanzia contro gli eventuali difetti del materiale di supporto su cui il software viene fornito (se utilizzato nel modo previsto) per un periodo di trenta (30) giorni dalla data di acquisto. In tal caso il Produttore provvederà a sostituire il supporto se esso si rivelerà effettivamente difettoso. Tale garanzia non è da ritenersi applicabile nel caso in cui i difetti del supporto siano stati provocati da incidenti, dal loro uso scorretto o da errori di applicazione.
+
+LIMITAZIONE DI GARANZIA
+Eccetto per quanto garantito qui sopra, il prodotto viene fornito "così com'è". ArubaPEC e i propri rivenditori o distributori negano ogni e qualsiasi ulteriore garanzia, espressa o implicita, incluso, senza alcuna limitazione, condizioni o garanzia implicita riguardante la qualità o l'adeguatezza per un determinato uso. Per il prodotto in versione dimostrativa non esiste alcuna forma di garanzia esplicita o implicita.
+ArubaPEC non è perseguibile per qualsiasi perdita di profitto o d'uso, interruzione d'affari, danni indiretti, speciali, incidentali o consequenziali di qualsiasi tipo, sia previsti che non citati nei termini di questo accordo.
+
+PROGRAMMI DIMOSTRATIVI MESSI A DISPOSIZIONE GRATUITAMENTE
+I programmi messi disposizione gratuitamente in versione dimostrativa sono esenti da garanzia o supporto. ArubaPEC e i distributori negano ogni e qualsiasi garanzia, espressa o implicita, incluso, senza alcuna limitazione, condizioni o garanzia implicita riguardante la qualità o l'adeguatezza per un determinato uso.
+
+LIMITAZIONE DELLA RESPONSABILITÀ
+Per le versioni a pagamento del prodotto l'unica responsabilità di ArubaPEC e l'unico rimedio dell'acquirente è quello di richiedere la sostituzione nei termini della garanzia limitata, previo ritorno della merce e presentazione della ricevuta d'acquisto. ArubaPEC potrà comunque, invece di procedere alla sostituzione, concedere unicamente il rimborso del prezzo d'acquisto. 
+in nessun caso arubapec, i suoi rivenditori o distributori, possono essere ritenuti responsabili per la perdita di profitto, dati o informazioni di qualsiasi specie o qualsiasi altra conseguenza, speciale, indiretta, incidentale, punitiva o altri danni che potessero intervenire con l'uso del prodotto.
+
+RESPONSABILITÀ PER IL FATTO DI TERZI
+Il SOFTWARE in oggetto è coperto dal diritto d'autore e da altri diritti di proprietà riservata da parte di ArubaPEC. L'UTENTE può quindi essere ritenuto direttamente responsabile da ArubaPEC per atti concernenti l'uso del software compiuti, direttamente o tramite terzi, non consentiti dal presente "Contratto di Licenza d'Uso e Garanzia del Software".
+
+INTERRUZIONE DELLA CONCESSIONE
+ArubaPEC si arroga il diritto di revocare la licenza in qualsiasi momento se l'UTENTE non rispetta i termini e le condizioni su cui essa è basata. In tal caso, sarà fatto obbligo all'UTENTE di distruggere immediatamente le copie del SOFTWARE in suo possesso oppure di restituirne tutte le copie a ArubaPEC, comprese quelle da lui effettuate.
+
+LEGGE APPLICABILE E FORO GIURIDICO
+Questo accordo è regolato dalle leggi dello stato in cui risiede il Produttore, anche per quanto riguarda il brevetto e il copyright. Tale accordo regolamenta anche ogni possibile aggiornamento del programma, comprende ogni intesa tra le parti e soprassiede inoltre a tutte le proposte o accordi precedenti in relazione al soggetto qui considerato. Dovesse non essere applicabile una norma di questo contratto, restano le altre comunque applicabili. Qualsiasi controversia che insorgesse fra le parti relativa alla interpretazione e/o esecuzione del presente contratto sarà deferita al giudizio definitivo della Camera Arbitrale ICT con sede in Perugia secondo le regole adottate da tale ente. Per quanto non espressamente previsto dal presente contratto si applicheranno le norme del Codice Civile nonché della L.22.4.1941 n.633 così come successivamente integrata e modificata.
+
+ArubaPEC SpA, Arezzo, via Sergio Ramelli 8, Italia.
+
+------------------------------------------------------
+
+DESCRIZIONE DEL PRODOTTO
+
+La Suite Client di Firma Digitale ArubaSign è un prodotto software orientatato a gestire il ciclo di firma digitale basata sui certificati X.509 lato client: 
+
+1. gestione delle attività di richiesta, acquisizione e gestione locale dei certificati X.509 degli utenti operanti all'interno di una licenza;
+2. gestione delle attività di firma dei documenti e di verifica dei documenti firmati, con l'utilizzo di certificati X.509.
+
+I punti su esposti riguardano certificati X.509 mantenuti su:
+
+- supporto magnetico, 
+- supporto ottico, 
+- USB-memory;
+- SmartCard.
+
+La Suite Client di Firma Digitale ArubaSign è costituita dai seguenti componenti principali:
+
+- Client di Firma Digitale, Verifica, Richiesta Marca Temporale
+- Librerie Dinamiche per la gestione dei certificati
+
+Il Client di Firma Digitale, Verifica, Richiesta Marca Temporale è un pannello grafico che permette agli utenti di:
+
+- selezionare e visionare i documenti da firmare;
+- selezionare e verificare il certificato X.509 di firma;
+- effettuare la firma digitale dei documenti con il certificato selezionato;
+- effettuare la marcatura temporale dei documenti con la TSA configurata;
+- verificare i documenti firmati, estraendo i documenti originali dopo la verifica;
+- verificare le marcature temporali;
+- visualizzare i documenti verificati;
+- modificare le impostazioni dei parametri di utilizzo della suite.
+
+------------------------------------------------------
+
+COMPONENTI OPEN-SOURCE
+
+I componenti client della Suite di Firma Digitale ArubaSign sono stati sviluppati con l'obiettivo della piena e completa portabilità su diverse piattaforme. Di conseguenza sono stati adottati per lo sviluppo vari tool opensource, selezionati per essere interoperativi con differenti piattaforme (Microsoft Win32, Unix, MacOS). In particolare, per quanto riguarda le piattaforme Microsoft, l'unico punto di riferimento è l'interfaccia Win32, comune a tutte le versioni di Microsoft Windows. Relativamente alla gestione di SmartCard ed eToken, i componenti client di ArubaSign operano esclusivamente su interfaccia standard PKCS#11.
+
+I componenti open-source adottati per lo sviluppo dei client ArubaSign sono:
+
+wxWidgets
+package in linguaggio C++ di gestione dei pannelli grafici 
+
+CURL
+package in linguaggio C++ di gestione della comunicazione HTTP
+
+OpenSSL
+package in linguaggio C per la crittografia e i certificati X.509.
+
+Mozilla/NSS
+package in linguaggio C per la la crittografia e i certificati X.509 su interfaccia PKCS11.
+

@@ -1,0 +1,25 @@
+name: arubasign
+base: core22
+version: '23.0.3'
+summary: Aruba Sign
+description: |
+  Software per la firma digitale
+
+grade: stable
+confinement: classic
+
+architectures:
+  - build-on: [amd64]
+    build-for: [amd64]
+
+apps:
+  arubasign:
+    command: apps/arubasign.bat
+
+parts:
+  arubasign:
+    plugin: dump
+    source: arubasign
+    override-stage: |
+      craftctl default
+      $CRAFT_PART_INSTALL/install.sh

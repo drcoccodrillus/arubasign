@@ -1,0 +1,39 @@
+# This is a .lap file comment
+#-XX:+TieredCompilation
+#-XX:+UseConcMarkSweepGC 
+#-XX:+CMSParallelRemarkEnabled 
+–XX:+TieredCompilation
+#-XX:+PrintFlagsFinal
+#============================== parameters ===============================
+# Java custom params:
+#   J(USER_HOME) = System.getProperty("user.home")
+#   J(APPDATA)   = System.getenv("APPDATA")
+#   J(HOME)      = System.getenv("HOME")
+#-----------------------------------------------------------------------------------------
+janel.min.java.version=1.7
+--add-exports=java.desktop/sun.awt.shell=ALL-UNNAMED
+--add-exports=jdk.crypto.cryptoki/sun.security.pkcs11.wrapper=ALL-UNNAMED
+--add-exports=java.xml/com.sun.org.apache.xerces.internal.dom=ALL-UNNAMED
+--add-opens=java.base/java.io=ALL-UNNAMED
+--add-opens=java.smartcardio/sun.security.smartcardio=ALL-UNNAMED
+--add-exports=java.base/sun.security.util=ALL-UNNAMED
+--add-exports=java.base/sun.security.x509=ALL-UNNAMED
+--add-exports=java.base/sun.security.rsa=ALL-UNNAMED
+janel.classpath.jars.dir.recursive=${SELF_HOME}/dist
+janel.main.class=esecurity.trustloader.ArubaLauncher
+janel.java.home.path=${SELF_HOME}/jre64/
+-Desecurity.trustloader.mainclass=it.arubapec.arubasign.ArubaSignApp
+-Desecurity.trustloader.db=${SELF_HOME}/dist/ArubaSign.db
+#----------------------
+janel.splash=${SELF_HOME}/images/MainSplash.png
+-Djavax.net.ssl.trustStore=${SELF_HOME}/cacerts
+#-DArubaSign.accessibility.enabled=true
+#janel.debug.file=janel.log
+#-DprintRawArguments=true
+#----------------------
+-Djdk.http.auth.tunneling.disabledSchemes=""
+-Djavax.accessibility.screen_magnifier_present=false
+-Dswt.autoScale=exact
+-Dorg.eclipse.jetty.util.log.class=org.eclipse.jetty.util.log.StdErrLog
+-Dcapi.certdb.verbose=false
+-Djna.library.path=/usr/lib/x64-athena:${SELF_HOME}/driver

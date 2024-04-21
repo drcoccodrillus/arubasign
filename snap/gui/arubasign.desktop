@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=ArubaSign
+Comment=Aruba Firma Digitale
+Exec=arubasign
+Icon=${SNAP}/meta/gui/arubasign.png
+Terminal=false
+Categories=Utility;Application;

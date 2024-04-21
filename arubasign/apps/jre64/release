@@ -1,0 +1,2 @@
+JAVA_VERSION="17.0.5"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop java.instrument java.logging java.management java.security.sasl java.naming java.scripting java.security.jgss java.smartcardio java.transaction.xa java.sql java.xml.crypto jdk.accessibility jdk.crypto.ec jdk.crypto.cryptoki jdk.management jdk.unsupported"

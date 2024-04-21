@@ -1,0 +1,30 @@
+# This is a .lap file comment
+#-XX:+TieredCompilation
+#-XX:+UseConcMarkSweepGC 
+#-XX:+CMSParallelRemarkEnabled 
+–XX:+TieredCompilation
+#-XX:+PrintFlagsFinal
+#============================== parameters ===============================
+# Java custom params:
+#   J(USER_HOME) = System.getProperty("user.home")
+#   J(APPDATA)   = System.getenv("APPDATA")
+#   J(HOME)      = System.getenv("HOME")
+#-----------------------------------------------------------------------------------------
+janel.min.java.version=1.7
+--add-exports=java.desktop/sun.awt.shell=ALL-UNNAMED
+--add-exports=jdk.crypto.cryptoki/sun.security.pkcs11.wrapper=ALL-UNNAMED
+--add-exports=java.xml/com.sun.org.apache.xerces.internal.dom=ALL-UNNAMED
+--add-opens=java.base/java.io=ALL-UNNAMED
+--add-opens=java.smartcardio/sun.security.smartcardio=ALL-UNNAMED
+janel.main.class=it.actalis.ellips.capi.tsl.rootupdater.RootUpdaterLauncher
+janel.trustloader.path=${SELF_HOME}/dist/trust-loader.jar
+janel.trustloader.db=${SELF_HOME}/dist/ArubaSign.db
+janel.jvm.path=${SELF_HOME}/jre64/lib/server/libjvm.so
+#----------------------
+#janel.debug.file=RootUpdater.log
+#----------------------
+-Djdk.http.auth.tunneling.disabledSchemes=""
+-Djavax.accessibility.screen_magnifier_present=false
+-Dswt.autoScale=exact
+-Dcapi.certdb.verbose=false
+-Djna.library.path=/usr/lib/x64-athena:${SELF_HOME}/driver
